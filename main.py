@@ -1,3 +1,4 @@
+# ДЗ 1.1
 while True:
     duration_sec = int(input('Введите кол-во секунд: '));
     if (duration_sec <= 0):

@@ -1,3 +1,4 @@
+# ДЗ 1.3
 for i in range(1, 101):
     if (i >= 10 and i < 100):
         num = i % 10
