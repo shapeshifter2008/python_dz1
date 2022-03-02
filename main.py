@@ -1,5 +1,4 @@
 while True:
-while True:
     duration_sec = int(input('Введите кол-во секунд: '));
     if (duration_sec <= 0):
         print('Ошибка! Укажите число больше 0')
